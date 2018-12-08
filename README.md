@@ -1,91 +1,57 @@
-# landing-page
-This project will test our skills in Html, Css,  Bootstrap and Js
 
 # Company Landing Page website
 
-This 
-
-## Getting Started
+This is our first open source project as beginners. This project is about creating a landing page by utilizing all our skills based on our experience.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
+#### Programming languages we are going to use
+* Html
+* Css
+* Bootstrap
+* Javascript !important
 
-What things you need to install the software and how to install them
+### Skills
+* You need to have the basics of the above languages.
+* You need to know the basics of how to use github. If you are a newbie learn section 16 of the Zero to Mastery Course before <https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/content> or if you are not enrolled in that you can read around by knowing these basics 1) How to create a repository 2) Issues 3) pull request and how to fork a repository. You can checkout these resources
+* <https://lab.github.com/githubtraining/introduction-to-github>
+* <https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=1>
 
-```
-Give examples
-```
+### Getting Started
 
-### Installing
+* Firstly fork this repository
+* Next we are going to change the entire style or improve the homepage
+* Next we are going to create these pages
+1. #### about us
+2. #### contact form
+3. #### Members/Teams
+4. #### mission/vision
+5. #### registration form
+6. #### portfolio
 
-A step by step series of examples that tell you how to get a development env running
+### Developers Responsibilities
+* Every developer will have a task to perform but you are obligated to use your skills to help or improve our project.
+* Every developer will re-create the hompepage base on his experience.
 
-Say what the step will be
+## TEAMS
+### Legal Teams
+They are responsible to finalize our codes before merging them
+    ## MEMBERS
+    ### Guillaume
+    ### DragonFyZex
 
-```
-Give the example
-```
+## Developers
+* Emmanuel
+* Alberto
+* The rest of the names will be listed here.
 
-And repeat
+See the  [contributors](https://github.com/Twentek-Gh/landing-page/blob/master/Contributing.md) 
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* This content will be provided after the project
+
+
 
