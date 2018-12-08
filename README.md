@@ -1,9 +1,9 @@
 
 # Company Landing Page website
 
-This is our first open source project as beginners. This project is about creating a landing page by utilizing all our skills based on our experience.
+This is our first open source project as beginners. This project is about creating a landing page by utilizing all our skills based on our experience. Live preview it <https://twentek-gh.github.io/landing-page>
 
-### Prerequisites
+# Prerequisites
 #### If you want to participate just send us your github username
 
 #### Programming languages we are going to use
